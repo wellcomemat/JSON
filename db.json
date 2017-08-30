@@ -1,5 +1,5 @@
 {
-    "chapters": [
+    "posts": [
         {
             "id": 1,
             "title": "hello",
@@ -17,6 +17,9 @@
             "title": "howdy",
             "time": 10,
             "clicks": 9
-        },
-    ]
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }
