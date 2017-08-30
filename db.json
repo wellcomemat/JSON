@@ -1,11 +1,22 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "chapters": [
+        {
+            "id": 1,
+            "title": "hello",
+            "time": 2,
+            "clicks": 16
+        },
+        {
+            "id": 2,
+            "title": "yo",
+            "time": 6,
+            "clicks": 12
+        },
+        {
+            "id": 3,
+            "title": "howdy",
+            "time": 10,
+            "clicks": 9
+        },
+    ]
 }
