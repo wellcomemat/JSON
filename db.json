@@ -174,5 +174,73 @@
             "time": 74,
             "clicks": 5
         }
+    ],
+    "timeshare_response": [
+        {
+            "id": 0,
+            "title": "title0",
+            "time": 0,
+            "image": "http://www.imagelocation.com/010101010101/thishash0001/000000"
+        },
+        {
+            "id": 1,
+            "title": "title1",
+            "time": 1,
+            "image": "http://www.imagelocation.com/010101010101/thishash0001/000001"
+        },
+        {
+            "id": 2,
+            "title": "title2",
+            "time": 2,
+            "image": "http://www.imagelocation.com/010101010101/thishash0001/000002"
+        },
+        {
+            "id": 3,
+            "title": "title3",
+            "time": 3,
+            "image": "http://www.imagelocation.com/010101010101/thishash0001/000003"
+        },
+        {
+            "id": 4,
+            "title": "title4",
+            "time": 4,
+            "image": "http://www.imagelocation.com/010101010101/thishash0001/000004"
+        },
+        {
+            "id": 5,
+            "title": "title5",
+            "time": 5,
+            "image": "http://www.imagelocation.com/010101010101/thishash0001/000005"
+        },
+        {
+            "id": 6,
+            "title": "title6",
+            "time": 6,
+            "image": "http://www.imagelocation.com/010101010101/thishash0001/000006"
+        },
+        {
+            "id": 7,
+            "title": "title7",
+            "time": 7,
+            "image": "http://www.imagelocation.com/010101010101/thishash0001/000007"
+        },
+        {
+            "id": 8,
+            "title": "title8",
+            "time": 8,
+            "image": "http://www.imagelocation.com/010101010101/thishash0001/000008"
+        },
+        {
+            "id": 9,
+            "title": "title9",
+            "time": 9,
+            "image": "http://www.imagelocation.com/010101010101/thishash0001/000009"
+        },
+        {
+            "id": 10,
+            "title": "title10",
+            "time": 74,
+            "image": "http://www.imagelocation.com/010101010101/thishash0001/000010"
+        }
     ]
 }
