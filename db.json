@@ -1,246 +1,258 @@
 {
-    "chapters": [
-        {
-            "id": 1,
-            "title": "hello",
-            "time": 2,
-            "clicks": 16
-        },
-        {
-            "id": 2,
-            "title": "yo",
-            "time": 6,
-            "clicks": 12
-        },
-        {
-            "id": 3,
-            "title": "hola",
-            "time": 8,
-            "clicks": 10
-        },
-        {
-            "id": 4,
-            "title": "hi",
-            "time": 12,
-            "clicks": 1
-        },
-        {
-            "id": 5,
-            "title": "hey",
-            "time": 15,
-            "clicks": 19
-        },
-        {
-            "id": 6,
-            "title": "aloha",
-            "time": 18,
-            "clicks": 7
-        },
-        {
-            "id": 7,
-            "title": "bonjour",
-            "time": 21,
-            "clicks": 13
-        },
-        {
-            "id": 8,
-            "title": "ciao",
-            "time": 22,
-            "clicks": 18
-        },
-        {
-            "id": 9,
-            "title": "hallo",
-            "time": 27,
-            "clicks": 12
-        },
-        {
-            "id": 10,
-            "title": "hej",
-            "time": 29,
-            "clicks": 14
-        },
-        {
-            "id": 11,
-            "title": "salve",
-            "time": 33,
-            "clicks": 11
-        },
-        {
-            "id": 12,
-            "title": "zdravo",
-            "time": 36,
-            "clicks": 9
-        },
-        {
-            "id": 13,
-            "title": "saluton",
-            "time": 38,
-            "clicks": 6
-        },
-        {
-            "id": 14,
-            "title": "shalom",
-            "time": 42,
-            "clicks": 4
-        },
-        {
-            "id": 15,
-            "title": "welcome",
-            "time": 45,
-            "clicks": 6
-        },
-        {
-            "id": 16,
-            "title": "hiya",
-            "time": 48,
-            "clicks": 5
-        },
-        {
-            "id": 17,
-            "title": "hey there",
-            "time": 49,
-            "clicks": 9
-        },
-        {
-            "id": 18,
-            "title": "holler",
-            "time": 53,
-            "clicks": 12
-        },
-        {
-            "id": 19,
-            "title": "what up",
-            "time": 55,
-            "clicks": 10
-        },
-        {
-            "id": 20,
-            "title": "what's up",
-            "time": 57,
-            "clicks": 7
-        },
-        {
-            "id": 21,
-            "title": "sup",
-            "time": 59,
-            "clicks": 4
-        },
-        {
-            "id": 22,
-            "title": "hey dude",
-            "time": 60,
-            "clicks": 1
-        },
-        {
-            "id": 23,
-            "title": "hi there",
-            "time": 62,
-            "clicks": 5
-        },
-        {
-            "id": 24,
-            "title": "hey buddy",
-            "time": 64,
-            "clicks": 3
-        },
-        {
-            "id": 25,
-            "title": "hi lo",
-            "time": 66,
-            "clicks": 8
-        },
-        {
-            "id": 26,
-            "title": "salutations",
-            "time": 68,
-            "clicks": 9
-        },
-        {
-            "id": 27,
-            "title": "how do you do?",
-            "time": 70,
-            "clicks": 7
-        },
-        {
-            "id": 28,
-            "title": "wazzup?!",
-            "time": 73,
-            "clicks": 3
-        },
-        {
-            "id": 29,
-            "title": "howdy",
-            "time": 74,
-            "clicks": 5
-        }
-    ],
-    "timeshare_response": [
-        {
-            "id": 0,
-            "title": "title0",
-            "time": 0,
-            "image": "http://www.imagelocation.com/010101010101/thishash0001/000000"
-        },
-        {
-            "id": 1,
-            "title": "title1",
-            "time": 1,
-            "image": "http://www.imagelocation.com/010101010101/thishash0001/000001"
-        },
-        {
-            "id": 2,
-            "title": "title2",
-            "time": 2,
-            "image": "http://www.imagelocation.com/010101010101/thishash0001/000002"
-        },
-        {
-            "id": 3,
-            "title": "title3",
-            "time": 3,
-            "image": "http://www.imagelocation.com/010101010101/thishash0001/000003"
-        },
-        {
-            "id": 4,
-            "title": "title4",
-            "time": 4,
-            "image": "http://www.imagelocation.com/010101010101/thishash0001/000004"
-        },
-        {
-            "id": 5,
-            "title": "title5",
-            "time": 5,
-            "image": "http://www.imagelocation.com/010101010101/thishash0001/000005"
-        },
-        {
-            "id": 6,
-            "title": "title6",
-            "time": 6,
-            "image": "http://www.imagelocation.com/010101010101/thishash0001/000006"
-        },
-        {
-            "id": 7,
-            "title": "title7",
-            "time": 7,
-            "image": "http://www.imagelocation.com/010101010101/thishash0001/000007"
-        },
-        {
-            "id": 8,
-            "title": "title8",
-            "time": 8,
-            "image": "http://www.imagelocation.com/010101010101/thishash0001/000008"
-        },
-        {
-            "id": 9,
-            "title": "title9",
-            "time": 9,
-            "image": "http://www.imagelocation.com/010101010101/thishash0001/000009"
-        },
-        {
-            "id": 10,
-            "title": "title10",
-            "time": 74,
-            "image": "http://www.imagelocation.com/010101010101/thishash0001/000010"
-        }
-    ]
+  "chapters": [
+    {
+      "id": 1,
+      "title": "hello",
+      "time": 2,
+      "clicks": 16
+    },
+    {
+      "id": 2,
+      "title": "yo",
+      "time": 6,
+      "clicks": 12
+    },
+    {
+      "id": 3,
+      "title": "hola",
+      "time": 8,
+      "clicks": 10
+    },
+    {
+      "id": 4,
+      "title": "hi",
+      "time": 12,
+      "clicks": 1
+    },
+    {
+      "id": 5,
+      "title": "hey",
+      "time": 15,
+      "clicks": 19
+    },
+    {
+      "id": 6,
+      "title": "aloha",
+      "time": 18,
+      "clicks": 7
+    },
+    {
+      "id": 7,
+      "title": "bonjour",
+      "time": 21,
+      "clicks": 13
+    },
+    {
+      "id": 8,
+      "title": "ciao",
+      "time": 22,
+      "clicks": 18
+    },
+    {
+      "id": 9,
+      "title": "hallo",
+      "time": 27,
+      "clicks": 12
+    },
+    {
+      "id": 10,
+      "title": "hej",
+      "time": 29,
+      "clicks": 14
+    },
+    {
+      "id": 11,
+      "title": "salve",
+      "time": 33,
+      "clicks": 11
+    },
+    {
+      "id": 12,
+      "title": "zdravo",
+      "time": 36,
+      "clicks": 9
+    },
+    {
+      "id": 13,
+      "title": "saluton",
+      "time": 38,
+      "clicks": 6
+    },
+    {
+      "id": 14,
+      "title": "shalom",
+      "time": 42,
+      "clicks": 4
+    },
+    {
+      "id": 15,
+      "title": "welcome",
+      "time": 45,
+      "clicks": 6
+    },
+    {
+      "id": 16,
+      "title": "hiya",
+      "time": 48,
+      "clicks": 5
+    },
+    {
+      "id": 17,
+      "title": "hey there",
+      "time": 49,
+      "clicks": 9
+    },
+    {
+      "id": 18,
+      "title": "holler",
+      "time": 53,
+      "clicks": 12
+    },
+    {
+      "id": 19,
+      "title": "what up",
+      "time": 55,
+      "clicks": 10
+    },
+    {
+      "id": 20,
+      "title": "what's up",
+      "time": 57,
+      "clicks": 7
+    },
+    {
+      "id": 21,
+      "title": "sup",
+      "time": 59,
+      "clicks": 4
+    },
+    {
+      "id": 22,
+      "title": "hey dude",
+      "time": 60,
+      "clicks": 1
+    },
+    {
+      "id": 23,
+      "title": "hi there",
+      "time": 62,
+      "clicks": 5
+    },
+    {
+      "id": 24,
+      "title": "hey buddy",
+      "time": 64,
+      "clicks": 3
+    },
+    {
+      "id": 25,
+      "title": "hi lo",
+      "time": 66,
+      "clicks": 8
+    },
+    {
+      "id": 26,
+      "title": "salutations",
+      "time": 68,
+      "clicks": 9
+    },
+    {
+      "id": 27,
+      "title": "how do you do?",
+      "time": 70,
+      "clicks": 7
+    },
+    {
+      "id": 28,
+      "title": "wazzup?!",
+      "time": 73,
+      "clicks": 3
+    },
+    {
+      "id": 29,
+      "title": "howdy",
+      "time": 74,
+      "clicks": 5
+    }
+  ],
+  "timeshare_response": [
+    {
+      "id": 0,
+      "title": "title0",
+      "time": 0,
+      "image": "http://www.imagelocation.com/010101010101/thishash0001/000000"
+    },
+    {
+      "id": 1,
+      "title": "title1",
+      "time": 1,
+      "image": "http://www.imagelocation.com/010101010101/thishash0001/000001"
+    },
+    {
+      "id": 2,
+      "title": "title2",
+      "time": 2,
+      "image": "http://www.imagelocation.com/010101010101/thishash0001/000002"
+    },
+    {
+      "id": 3,
+      "title": "title3",
+      "time": 3,
+      "image": "http://www.imagelocation.com/010101010101/thishash0001/000003"
+    },
+    {
+      "id": 4,
+      "title": "title4",
+      "time": 4,
+      "image": "http://www.imagelocation.com/010101010101/thishash0001/000004"
+    },
+    {
+      "id": 5,
+      "title": "title5",
+      "time": 5,
+      "image": "http://www.imagelocation.com/010101010101/thishash0001/000005"
+    },
+    {
+      "id": 6,
+      "title": "title6",
+      "time": 6,
+      "image": "http://www.imagelocation.com/010101010101/thishash0001/000006"
+    },
+    {
+      "id": 7,
+      "title": "title7",
+      "time": 7,
+      "image": "http://www.imagelocation.com/010101010101/thishash0001/000007"
+    },
+    {
+      "id": 8,
+      "title": "title8",
+      "time": 8,
+      "image": "http://www.imagelocation.com/010101010101/thishash0001/000008"
+    },
+    {
+      "id": 9,
+      "title": "title9",
+      "time": 9,
+      "image": "http://www.imagelocation.com/010101010101/thishash0001/000009"
+    },
+    {
+      "id": 10,
+      "title": "title10",
+      "time": 10,
+      "image": "http://www.imagelocation.com/010101010101/thishash0001/000010"
+    }
+  ],
+  "timeshare_endpoint": [
+    {
+      "user": "user_id_000001",
+      "media": "media_hash_000001",
+      "token": "user_token_G^&B73_D33_G00K!",
+      "time": "3:10",
+      "image": "/user_id/media_hash/image_name.jpg",
+      "description": "this media description",
+      "share_platform": "SMS",
+      "id": 1
+    }
+  ]
 }
